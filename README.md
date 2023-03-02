@@ -7,7 +7,7 @@ I have experience developing applications using the PERN stack and I specialize 
 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/) 🎨
 
 ## Tech Stack 👩‍💻
-JavaScript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, Sequelize, Express, Material UI, Framer MotionVexFlow
+JavaScript, HTML, CSS, React, Redux, NodeJS, PostgreSQL, Sequelize, Express, Material UI, Framer Motion, VexFlow
 
 ## GitHub Stats 🔥
 
