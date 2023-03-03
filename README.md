@@ -23,4 +23,4 @@ Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/) 🎨
 
 ## GitHub Stats 🔥
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=shoshana-levitt&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1F222E&stroke=FFFFFF&currStreakLabel=FFE8D1&sideLabels=FFE8D1&ring=68C3D4&fire=568EA3&currStreakNum=FFFFFF&sideNums=68C3D4)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shoshana-levitt&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
