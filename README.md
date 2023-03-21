@@ -4,7 +4,9 @@ I’m Shoshana Levitt, a full-stack software engineer based in New York City.
 
 I have experience developing applications using the PERN stack and I specialize in front-end development. I graduated from The Grace Hopper Program at Fullstack Academy in February of 2023.
 
-Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/) 🎨
+🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
+🌱 Currently Learning: TypeScript
+👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
 
 ## Tech Stack 👩‍💻
 
