@@ -27,4 +27,4 @@ I have experience developing applications using the PERN stack and I specialize 
 
 ## GitHub Stats 🔥
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shoshana-levitt&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+
