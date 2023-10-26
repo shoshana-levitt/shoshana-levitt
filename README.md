@@ -6,7 +6,7 @@ I have experience developing applications using the PERN stack and I specialize 
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
 
-🌱 Currently Learning: TypeScript
+🌱 Currently Learning: TypeScript, Angular, Langchain
 
 👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
 
