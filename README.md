@@ -8,7 +8,7 @@ My background in account management and customer success has uniquely enriched m
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
 
-🌱 Currently Learning: TypeScript, Angular, NextJS, Langchain
+🌱 Currently Learning: TypeScript, Angular, NextJS, Tailwind, Langchain
 
 👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
 
