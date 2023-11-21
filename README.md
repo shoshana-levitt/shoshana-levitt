@@ -10,8 +10,6 @@ My background in account management and customer success has uniquely enriched m
 
 🌱 Currently Learning: TypeScript, Angular, NextJS, Tailwind, Langchain
 
-👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
-
 ## Tech Stack 👩‍💻
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
