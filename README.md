@@ -23,7 +23,7 @@ My background in account management and customer success has uniquely enriched m
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Express](https://img.shields.io/badge/Framer%20Motion-404D59?style=for-the-badge)
-
+![NextJS](https://img.shields.io/badge/Framer%20Motion-404D59?style=for-the-badge)
 
 ## GitHub Stats 🔥
 
