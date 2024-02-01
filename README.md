@@ -7,8 +7,7 @@ I have experience developing applications using the PERN stack and I specialize 
 My background in account management and customer success has uniquely enriched my approach to software development. I believe that the most impactful products are not just about excellent code and design; they must be experiences crafted to resonate with users on a personal level.
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
-
-🌱 Currently Learning: Angular, Tailwind
+👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
 
 ## Tech Stack 👩‍💻
 
