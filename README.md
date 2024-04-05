@@ -8,6 +8,8 @@ My background in account management and customer success has uniquely enriched m
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
 
+🤖 Currently learning LLM application development in The AI Engineering Bootcamp by AI Makerspace
+
 👀 Seeking a full-time opportunity as a front-end or full-stack software engineer!
 
 ## Tech Stack 👩‍💻
