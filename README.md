@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello, World! 👋🏼
 
 I’m Shoshana Levitt, a full-stack software engineer based in New York City.
 
