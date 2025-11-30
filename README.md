@@ -8,7 +8,7 @@ My background in account management and customer success has uniquely enriched m
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
 
-👩🏻‍🎓 I am working toward an M.S. in Computer Science at NYU Tandon!
+👩🏻‍🎓 I am currently an M.S. Computer Science student at NYU Tandon!
 
 ## Tech Stack 👩‍💻
 
