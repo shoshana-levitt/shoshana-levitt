@@ -1,10 +1,6 @@
 # Hello, World! 👋🏼
 
-I’m Shoshana Levitt, a full-stack software engineer based in New York City.
-
-I have experience developing applications using the PERN stack and I specialize in front-end development. I'm a Certified AI Engineer with an interest in building and fine-tuning LLMs (large language models). I graduated from The Grace Hopper Program at Fullstack Academy in February of 2023.
-
-My background in account management and customer success has uniquely enriched my approach to software development. I believe that the most impactful products are not just about excellent code and design; they must be experiences crafted to resonate with users on a personal level.
+I’m Shoshana Levitt, a full-stack software engineer based in New York City specializing in front-end development. I believe that the most impactful products are not just about excellent code and design; they must be experiences crafted to resonate with users on a personal level.
 
 🎨 Portfolio Website: [shoshanalevitt.com](http://www.shoshanalevitt.com/)
 
